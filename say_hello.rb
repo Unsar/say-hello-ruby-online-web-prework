@@ -1,4 +1,4 @@
-require_relative './spec/say_hello_spec'
+require_relative '../say_hello'
 
 # Build your say_hello method here
 def say_hello(name="Ruby Programmer)
